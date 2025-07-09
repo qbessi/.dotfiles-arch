@@ -1,6 +1,0 @@
-{
-  "theme": "/home/super/.config/powerline-shell/rosepine.py",
-  "segments": ["cwd", "git", "virtual_env", "root"]
-}
-
-

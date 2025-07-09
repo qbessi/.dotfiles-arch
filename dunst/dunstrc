@@ -26,7 +26,7 @@ close = ctrl+space
 close_all = ctrl+shift+space
 history = ctrl+grave
 context = ctrl+shift+period
-format = "%b\n<small><b>%s</b></small>"
+format = "%b<small><b>%s</b></small>"
 
 [urgency_low]
 timeout = 4

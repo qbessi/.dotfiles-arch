@@ -3,8 +3,8 @@
     border-radius: 0;
     font-family: JetBrainsMono Nerd Font, monospace;
     font-weight: bold;
-    font-size: 14px;
-    min-height: 0;
+    font-size: 12px;
+    min-height: 25px;
 }
 
 window#waybar {
