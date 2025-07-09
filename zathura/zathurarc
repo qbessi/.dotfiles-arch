@@ -1,0 +1,18 @@
+# Rose Pine Moon Theme for Zathura
+set default-bg        "#232136"
+set default-fg        "#e0def4"
+set statusbar-bg      "#2a273f"
+set statusbar-fg      "#e0def4"
+set inputbar-bg       "#2a273f"
+set inputbar-fg       "#e0def4"
+set notification-bg   "#2a273f"
+set notification-fg   "#e0def4"
+set highlight-color   "#eb6f92"
+set highlight-active-color "#f6c177"
+set completion-bg     "#2a273f"
+set completion-fg     "#e0def4"
+set completion-group-bg "#393552"
+set completion-group-fg "#ea9a97"
+set completion-highlight-bg "#524f67"
+set completion-highlight-fg "#f6c177"
+
