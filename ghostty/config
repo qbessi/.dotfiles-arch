@@ -42,9 +42,10 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-theme = rose-pine-moon
+theme = "rose-pine-moon"
 window-padding-x = 10
 window-padding-y = 10
-font-family = JetBrains Mono Nerd Font
+font-family = "JetBrainsMono Nerd Font"
+
 
 

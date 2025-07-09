@@ -1,2 +1,3 @@
-2025/07/09-17:43:34.508 b6c5 Creating DB /home/mk/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb since it was missing.
-2025/07/09-17:43:34.519 b6c5 Reusing MANIFEST /home/mk/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-18:09:24.666 e32 Reusing MANIFEST /home/mk/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-18:09:24.667 e32 Recovering log #3
+2025/07/09-18:09:24.668 e32 Reusing old log /home/mk/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
