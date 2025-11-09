@@ -1,0 +1,1 @@
+yay -S ghostty neofetch tofi mullvad-vpn synology-drive waybar zathura nvim git 1password firefox hyprlock hypridle hyprpicker nautilus obsidian waybar grimblast opensnitch blueman bluez bluez-utils zsh oh-my-zsh pamixer
