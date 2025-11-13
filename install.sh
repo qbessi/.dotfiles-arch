@@ -46,7 +46,6 @@ yay -S --noconfirm \
   waybar \
   discord \
   gnome-boxes \
-  
   zsh
 
 # Refresh font cache
