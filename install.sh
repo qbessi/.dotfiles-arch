@@ -24,9 +24,10 @@ yay -S --noconfirm \
   dunst \
   firefox \
   ghostty \
-  git \
   grim \
   grimblast-git \
+  transmission-bt \
+  cliphist \
   htop \
   hypridle \
   hyprland \
@@ -43,6 +44,9 @@ yay -S --noconfirm \
   tofi \
   ttf-jetbrains-mono-nerd \
   waybar \
+  discord \
+  gnome-boxes \
+  
   zsh
 
 # Refresh font cache
