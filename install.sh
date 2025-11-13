@@ -20,7 +20,7 @@ yay -S --noconfirm \
   1password \
   blueman \
   bluez \
-  bluez-utils \
+  bluez-tools \
   dunst \
   firefox \
   ghostty \
@@ -32,37 +32,21 @@ yay -S --noconfirm \
   hyprland \
   hyprlock \
   hyprpicker \
-  iwd \
   mullvad-vpn \
   nautilus \
   neofetch \
   neovim \
   obsidian \
-  opensnitch \
   pamixer \
-  polkit-kde-agent \
-  qt5-wayland \
-  qt6-wayland \
   slurp \
   synology-drive \
   tofi \
   ttf-jetbrains-mono-nerd \
-  uwsm \
-  vulkan-radeon \
   waybar \
-  wget \
-  wireplumber \
-  xdg-desktop-portal-hyprland \
-  zsh \
-  oh-my-zsh
+  zsh
 
 # Refresh font cache
 fc-cache -fv
-
-# Enable essential services
-sudo systemctl enable --now NetworkManager
-sudo systemctl enable --now bluetooth
-sudo systemctl enable --now mullvad-daemon
 
 # Autostart Synology Drive on login
 mkdir -p ~/.config/autostart
