@@ -1,3 +1,3 @@
-# .dotfiles-arch
+Arch Linux Dot Files
 
 ![Screenshot](https://github.com/qbessi/arch-dotfiles/blob/main/20251123_091409.png)
